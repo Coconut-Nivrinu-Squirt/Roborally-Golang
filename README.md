@@ -1,5 +1,5 @@
 # Roborally Web implementation written in the go language
-## Licensed under AGPL V3. License included as the following file: agpl-3.0.md
+## Licensed under AGPL V3. License included as the file LICENSCE.md and visible in the tab beside the README time
 ### Built for use with postgresql as the database backend
  *This project is a heavy work in progress. Things may change randomly!!!*
 This is built as a faithful recreation of the 2005 roborally ruleset that is Free to redestribute basis based on publically findable assets.
