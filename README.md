@@ -49,6 +49,10 @@ Course manual player count as a reccomendation (Since this generally gets ignore
 | Implement War Zone | Not Started, Requires Game join page & Game backend |
 | Implement Course Builder | Not Started, Requires all courses to be implemented. |
 | Other Features | To Be Announced |
-| ------------ | -------------- |
+
 Have a Feature request to add to the tracker? Open a issue with the label of "enhancement"!
+## Dependencies
+- Postgresql
+- go coding language
+- nginx
 
